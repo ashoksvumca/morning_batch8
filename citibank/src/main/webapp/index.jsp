@@ -29,9 +29,9 @@
 		</div>
 		<div id="nav">
 			<ul>
-				<li><a href="https://www.googl.com">Google</a></li>
+				<li><a href="https://www.google.com">Google</a></li>
 				<li><a href="https://www.flipkart.com/">Flipkart</a></li>
-				<li><a href="#/contact.html">Contact</a></li>
+				<li><a href="https://www.amazon.in/">Amazon</a></li>
 			</ul>	
 		</div>
 		<div id="content">
@@ -45,7 +45,7 @@
 		</div>
 		<div id="footer">
 			<p>
-				Webpage made by <a href="/" target="_blank">[your name]</a>
+				Webpage made by <a href="/" target="_blank">Ashok</a>
 			</p>
 		</div>
 	</div>
